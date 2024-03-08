@@ -19,6 +19,6 @@ public class Ex20 {
         else
             System.out.println("nu e palindrom");
 
-        scanner.close();
+    
     }
 }
